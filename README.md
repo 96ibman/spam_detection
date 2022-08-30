@@ -61,11 +61,12 @@ df['b_labels'] = df['Category'].map({'ham':0, 'spam':1})
 Bag-of-Word (BOW) is used for feature extraction, using the function CountVectorizer in python
 
 ## Machine Learning Models
-**This a comprehensive between 4 ML models**
+**This a comprehensive between 5 ML models**
 - Support Vector Machine
 - Decision Tree
 - K-Nearest Neighbours
 - Random Forest
+- Multinomial Naive Bayes
 
 
 ## Evaluation Metrics
